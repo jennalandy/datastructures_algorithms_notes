@@ -1,2 +1,8 @@
 .ipynb_checkpoints/*
 .DS_Store
+Algo_HW_3.pdf
+__pycache__/*
+nb10LinEq.ipynb
+nb11PermtationMonteCarlo.ipynb
+nb6ParallelComputing.ipynb
+nb9Numeric.ipynb
